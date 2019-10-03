@@ -17,5 +17,3 @@ How to attempt this challenge:
 5) Push your solution to your repo
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
 dcc4c0b docs: update readme for git challenge (David Guttman, 11 minutes ago)
-...
-```
